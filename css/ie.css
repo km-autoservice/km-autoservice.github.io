@@ -1,0 +1,19 @@
+
+.class { behavior:url(js/PIE.htc); position:absolute;}
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:700);
+.button, .block-3, .table-1  {
+	behavior: url('js/PIE.htc');
+	position:relative;
+}
+.block-1 {
+	letter-spacing: -1px;
+}
+#confirm input {
+	line-height: 48px;
+}
+.sf-menu {
+	width: 560px;
+}
